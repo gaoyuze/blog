@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Zayn&#39;s Blog</title>
+        <link>https://yuzegao.com/</link>
+        <description>About LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>gyz20@mails.tsinghua.edu.cn (Yuze Gao)</managingEditor>
+            <webMaster>gyz20@mails.tsinghua.edu.cn (Yuze Gao)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 24 Jan 2021 12:22:05 &#43;0800</lastBuildDate>
+            <atom:link href="https://yuzegao.com/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>R语言之数据处理</title>
+    <link>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</link>
+    <pubDate>Sun, 24 Jan 2021 12:22:05 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</guid>
+    <description><![CDATA[数据处理]]></description>
+</item><item>
+    <title>R语言之基础</title>
+    <link>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9F%BA%E7%A1%80/</link>
+    <pubDate>Sat, 23 Jan 2021 17:55:24 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9F%BA%E7%A1%80/</guid>
+    <description><![CDATA[R语言 数据结构]]></description>
+</item></channel>
+</rss>
