@@ -6,7 +6,7 @@ draft: false
 
 # Yuze Gao(高宇泽)
 
-Yuze Gao (Zayn) is a PH.D student in Tsinghua University now.
+Yuze Gao (Zayn) is a PH.D student in Department of Computer Science and Technology, Tsinghua University now.
 
 ## Education
 

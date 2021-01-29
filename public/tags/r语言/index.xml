@@ -10,13 +10,20 @@
     <pubDate>Sun, 24 Jan 2021 12:22:05 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</guid>
-    <description><![CDATA[数据处理]]></description>
+    <description><![CDATA[数据处理 在进行数据分析之前，需要对数据进行处理，即根据需求对数据进行增，删，改，查。在R语言中基础包中，subset(), which(), merge()等]]></description>
+</item><item>
+    <title>R语言之数据读写</title>
+    <link>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%86%99/</link>
+    <pubDate>Sun, 24 Jan 2021 12:22:05 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%86%99/</guid>
+    <description><![CDATA[1.读数据 R语言的读写有read.csv(), read.table(), fread()。经过测试读写速度为fread() &gt; read.table() &gt; read.csv()。fread()速]]></description>
 </item><item>
     <title>R语言之基础</title>
     <link>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9F%BA%E7%A1%80/</link>
-    <pubDate>Sat, 23 Jan 2021 17:55:24 &#43;0800</pubDate>
+    <pubDate>Fri, 22 Jan 2021 17:55:24 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9F%BA%E7%A1%80/</guid>
-    <description><![CDATA[R语言 数据结构]]></description>
+    <description><![CDATA[R语言 R语言是Ross Ihaka和Robert Gentlemanat在新西兰奥克兰大学于1996年发起的一个项目，并且由1976年贝尔实验室]]></description>
 </item></channel>
 </rss>
