@@ -1,8 +1,6 @@
 # R语言之基础
 
 
-# R语言
-
 R语言是Ross Ihaka和Robert Gentlemanat在新西兰奥克兰大学于1996年发起的一个项目，并且由1976年贝尔实验室的S语言发展而来。目前于R语言常用于统计分析，绘图，数据挖掘。
 
 获取R的地址：http://cran.r-project.org/，国内镜像为：https://mirrors.tuna.tsinghua.edu.cn/CRAN/。

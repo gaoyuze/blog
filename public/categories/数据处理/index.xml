@@ -10,6 +10,6 @@
     <pubDate>Sun, 24 Jan 2021 12:22:05 &#43;0800</pubDate>
     <author>Author</author>
     <guid>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</guid>
-    <description><![CDATA[数据处理 在进行数据分析之前，需要对数据进行处理，即根据需求对数据进行增，删，改，查。在R语言中基础包中，subset(), which(), merge()等]]></description>
+    <description><![CDATA[在进行数据分析之前，需要对数据进行处理，即根据需求对数据进行增，删，改，查。在R语言中基础包中，subset(), which(), merge()等函数进行]]></description>
 </item></channel>
 </rss>
