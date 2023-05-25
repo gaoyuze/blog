@@ -2,16 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://yuzegao.com/categories/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/posts/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/tags/r%E8%AF%AD%E8%A8%80/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%86%99/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/tags/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/categories/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
-            <loc>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9F%BA%E7%A1%80/</loc><lastmod>2021-01-22T17:55:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url><url>
+            <loc>https://yuzegao.com/categories/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/posts/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/tags/r%E8%AF%AD%E8%A8%80/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E8%AF%BB%E5%86%99/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/tags/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/categories/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/categories/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/</loc><lastmod>2021-01-24T12:22:05&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://yuzegao.com/r%E8%AF%AD%E8%A8%80%E4%B9%8B%E5%9F%BA%E7%A1%80/</loc><lastmod>2021-01-22T17:55:24&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://yuzegao.com/about/</loc><lastmod>2020-09-23T17:20:09&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://yuzegao.com/tags/markdown/</loc><lastmod>2019-01-17T13:34:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://yuzegao.com/markdown%E8%AF%AD%E6%B3%95/</loc><lastmod>2019-01-17T13:34:29&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
