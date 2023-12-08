@@ -28,4 +28,3 @@ AI in Healthcare and Medical
 [1] Yuze Gao, Jiangshao Gu, Ying Shi, Haibo Wang, Ting Chen, Qian Di, Association of short-term exposure to ambient fine particle matter with hospital admission risks and costs in China, a case-crossover study, Global Transitions, Volume 5, 2023, Pages 40-49
 
 
-
