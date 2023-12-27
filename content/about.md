@@ -20,13 +20,19 @@ Yuze Gao (Zayn) is a PH.D student in Department of Computer Science and Technolo
 
 AI in Healthcare and Medical
 
+Multimodal in Electronic Health Record
+
 ## Honor
+
+2023.12 Third Prize of 1984 Innovation Scholarship, Department of Computer Science and Technology, Tsinghua University.
 
 2018.12 Award for Academic Excellents, Peking University.
 
 2018.12 Shenzhen Stock Exchange Scholarship, Peking University.
 
+2014.08 Third Prize of  China Software Cup.
+
 ## Publication
 
-[1] Yuze Gao, Jiangshao Gu, Ying Shi, Haibo Wang, Ting Chen, Qian Di, Association of short-term exposure to ambient fine particle matter with hospital admission risks and costs in China, a case-crossover study, Global Transitions, Volume 5, 2023, Pages 40-49
+1. Yuze Gao, Jiangshao Gu, Ying Shi, Haibo Wang, Ting Chen, Qian Di, Association of short-term exposure to ambient fine particle matter with hospital admission risks and costs in China, a case-crossover study, Global Transitions, Volume 5, 2023, Pages 40-49 (Reported by EurekAlert! [https://www.eurekalert.org/news-releases/993023])
 
