@@ -24,6 +24,8 @@ Multimodal in Electronic Health Record
 
 ## Honor
 
+2023.12 Second Prize of Social Work, Tsinghua University.
+
 2023.12 Third Prize of 1984 Innovation Scholarship, Department of Computer Science and Technology, Tsinghua University.
 
 2018.12 Award for Academic Excellents, Peking University.
