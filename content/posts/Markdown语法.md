@@ -5,7 +5,7 @@ draft: false
 author: "Yuze Gao"
 authorlink: "https://yuzegao.com"
 tags: ["Markdown"]
-categories: ["标记语言"]
+categories: ["工具"]
 ---
 
 Markdown是一种轻量级的标记语言，创始人为John Gruber，其允许人们使用易读易写的纯文本格式编写文档。本文将对其语法进行简单的说明。
