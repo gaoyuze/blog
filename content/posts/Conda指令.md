@@ -8,13 +8,13 @@ tags: ["Conda"]
 categories: ["工具"]
 ---
 
-## 安装指南
+## 1.安装指南
 
 从清华镜像站下载安装anaconda，地址为：https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/
 
 将安装源换为清华源，将~/.condarc内容替换，参考：https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/ 
 
-## conda指令
+## 2.conda指令
 
 conda管理， 主要包括信息查看，版本管理
 
@@ -83,7 +83,7 @@ conda env export > environment.yml
 conda env create -f environment.yml
 ```
 
-## 参考
+## 3.参考
 
 1. https://zhuanlan.zhihu.com/p/87123943
 2. https://zhuanlan.zhihu.com/p/57287956
