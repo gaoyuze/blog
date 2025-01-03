@@ -4,8 +4,8 @@ date: 2025-01-03T09:54:54+08:00
 draft: false
 author: "Yuze Gao"
 authorlink: "https://yuzegao.com"
-tags: ["深度学习"]
-categories: ["Normalization "]
+tags: ["Normalization "]
+categories: ["深度学习"]
 ---
 
 Normalization公式如下
