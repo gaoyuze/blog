@@ -12,7 +12,7 @@ Normalization公式如下
 $$
 y=\frac{x-E[x]}{\sqrt{Var[x]+\epsilon}} \star \gamma + \beta
 $$
-## Batch Normalization 与 Layer Normalization
+## 1.Batch Normalization 与 Layer Normalization
 
 ![](../images/Normalization-1.jpg)
 
