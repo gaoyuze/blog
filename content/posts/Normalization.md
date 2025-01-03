@@ -1,5 +1,5 @@
 ---
-title: "Normalization"
+title: "Batch Normalization 与 Layer Normalization"
 date: 2025-01-03T09:54:54+08:00
 draft: false
 author: "Yuze Gao"
