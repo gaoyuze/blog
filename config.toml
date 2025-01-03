@@ -28,7 +28,7 @@ enableEmoji = true
     # whether to include Chinese/Japanese/Korean
     hasCJKLanguage = true
     # default amount of posts in each pages
-    paginate = 12
+    pagination.pagerSize = 12
     # [UA-XXXXXXXX-X] google analytics code
     googleAnalytics = ""
     # copyright description used only for seo schema
@@ -525,5 +525,5 @@ enableEmoji = true
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
-  taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML", "RSS"]
