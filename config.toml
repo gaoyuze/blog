@@ -139,8 +139,6 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         Github = "gaoyuze"
-        Linkedin = "yuzegao"
-        Twitter = "JasonGao777"
         Email = "gyz20@mails.tsinghua.edu.cn"
 
 [params]
