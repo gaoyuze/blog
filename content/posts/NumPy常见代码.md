@@ -72,6 +72,9 @@ ar3 = np.append(ar1, ar2, axis=0) # axis = 0 按行合并 axis = 1 按列合并
 img_np = np.transpose(img_np, (2, 0, 1)) 
 # 转变数据类型
 ar2 = ar1.astype(np.float32)
+
+# 数组比较，比较有NaN的两个数组是否完全一样， 由于 np.nan == np.nan 会返回 False，需要用array_equal方法
+np.array_equal(a, b, equal_nan=True)
 ```
 
 
