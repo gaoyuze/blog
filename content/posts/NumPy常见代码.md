@@ -73,6 +73,20 @@ img_np = np.transpose(img_np, (2, 0, 1))
 # 转变数据类型
 ar2 = ar1.astype(np.float32)
 
+a = np.array([[1, 2], [3, 4]])
+b = np.array([[5, 6], [7, 8]])
+# 列拼接
+# [[1 2 5 6]
+# [3 4 7 8]]
+result = np.hstack((a, b))
+# 行拼接
+#[[1 2]
+# [3 4]
+# [5 6]
+# [7 8]]
+result = np.vstack((a, b))
+
+
 # 数组比较，比较有NaN的两个数组是否完全一样， 由于 np.nan == np.nan 会返回 False，需要用array_equal方法
 np.array_equal(a, b, equal_nan=True)
 ```
