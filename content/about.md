@@ -36,6 +36,7 @@ Multimodal in Electronic Health Record
 
 ## Publication
 
+1. Zhang S\*, Guo Y\*, \textbf{Gao Y\*}, et al. Differentiation of light chain cardiac amyloidosis and hypertrophic cardiomyopathy by ensemble machine learning-based radiomic analysis of cardiac magnetic resonance[J]. Orphanet Journal of Rare Diseases, 2025, 20(1): 557.
 1. Li J\*, **Gao Y\***, Shu G\*, et al. HMicroDB: A Comprehensive Database of Herpetofaunal Microbiota With a Focus on Host Phylogeny, Physiological Traits, and Environment Factors[J]. Molecular Ecology Resources, 2025, 25(3): e14046.
 1. **Gao Y**, Gu J, Shi Y, et al. Association of short-term exposure to ambient fine particle matter with hospital admission risks and costs in China, a case-crossover study[J]. Global Transitions, 2023, 5: 40-49. (Reported by [EurekAlert!](https://www.eurekalert.org/news-releases/993023))
 
