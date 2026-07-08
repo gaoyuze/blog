@@ -6,11 +6,11 @@ draft: false
 
 # Yuze Gao(高宇泽)
 
-Yuze Gao (Zayn) is a PH.D student in Department of Computer Science and Technology, Tsinghua University now.
+Yuze Gao (Zayn) is currently a Postdoctoral Researcher in the Department of Computer Science and Technology at Tsinghua University. works with Prof. Ting Chen at [Tim Lab](https://timlab.cn). His research focuses on artificial intelligence for medicine, with particular emphasis on rare diseases, cardiovascular diseases, intelligent clinical consultation systems, and differential diagnosis of complex and disputable cases.
 
 ## Education
 
-2020.9 - Present, Tsinghua University, Computer Science and Technology, Ph.D.
+2020.9 - 2026.6, Tsinghua University, Computer Science and Technology, Ph.D.
 
 2017.9 - 2020.6, Peking University, Computer Softwore and Theory, M.S.
 
@@ -18,9 +18,11 @@ Yuze Gao (Zayn) is a PH.D student in Department of Computer Science and Technolo
 
 ## Research 
 
-AI in Healthcare and Medical
+Artificial Intelligence in Medicine
 
-Multimodal in Electronic Health Record
+Rare Disease Diagnosis and Decision Support
+
+Cardiovascular Disease Modeling and Risk Stratification
 
 ## Honor
 
