@@ -26,6 +26,8 @@ Cardiovascular Disease Modeling and Risk Stratification
 
 ## Honor
 
+2024.12 Yuhua Scholarship, Department of Computer Science and Technology, Tsinghua University.
+
 2023.12 Second Prize of Social Work, Tsinghua University.
 
 2023.12 Third Prize of 1984 Innovation Scholarship, Department of Computer Science and Technology, Tsinghua University.
