@@ -139,7 +139,7 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         Github = "gaoyuze"
-        Email = "gyz20@mails.tsinghua.edu.cn"
+        Email = "gaoyuze@mail.tsinghua.edu.cn"
 
 [params]
   # LoveIt theme version
